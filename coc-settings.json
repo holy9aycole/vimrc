@@ -1,0 +1,19 @@
+{
+  "suggest.noselect": false,
+  "coc.preferences.formatOnSaveFiletypes": [
+    "javascript",
+    "typescript",
+    "typescriptreact",
+    "json",
+    "javascriptreact",
+    "typescript.tsx",
+    "graphql"
+  ],
+  "html.autoClosingTags": true,
+  "python.jediEnabled": false,
+  "json.schemaDownload.enable": false,
+  "emmet.includeLanguages": {
+    "html.handlebars": "html"
+  },
+  "clangd.path": "/home/holy/.config/coc/extensions/coc-clangd-data/install/13.0.0/clangd_13.0.0/bin/clangd"
+}
